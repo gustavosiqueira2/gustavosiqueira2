@@ -1,4 +1,4 @@
-<h2> Welcome  <𝚌Devs/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Welcome  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 I'm Gustavo Farias and welcome to my Github, feel free to contact me for anything. 
 
