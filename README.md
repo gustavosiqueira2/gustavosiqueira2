@@ -1,6 +1,6 @@
 <h2> Welcome  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I'm Gustavo Farias and welcome to my Github, feel free to contact me for anything. 
+HI! I'm Gustavo Farias, welcome to my Github, feel free to contact me for anything. 
 
 ## ⚡ Stack
 
