@@ -4,7 +4,7 @@ HI! I'm Gustavo Farias, welcome to my Github, feel free to contact me for anythi
 
 ## ⚡ Stack
 
-- Frontend development: **Angular, React, React-Native**
+- Frontend development: **React, React-Native**
 - Backend development: **Node.js (AdonisJS)**
 - Relational: **MySql, SSQL, Postgres**
 - NonRelational: **MongoDB**
