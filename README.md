@@ -2,17 +2,19 @@
 
 HI! I'm Gustavo Farias, welcome to my Github, feel free to contact me for anything. 
 
-## ⚡ Stack
+## ⚡ Stack (Typescript)
 
-- Frontend development: **React, React-Native**
-- Backend development: **Node.js (AdonisJS)**
+- Frontend development: **React (Vite), Next, React-Native**
+- Backend development: **Node.js (AdonisJS, NestJs)**
 - Relational: **MySql, SSQL, Postgres**
 - NonRelational: **MongoDB**
 - Unit/Func tests knowledge
 
 <br>
 
+<!---
 ![GustavoFarias2' github stats](https://github-readme-stats.vercel.app/api?username=gustavofarias2&hide=[%22issues%22]&show_icons=true)
+-->
 
 ---
 
