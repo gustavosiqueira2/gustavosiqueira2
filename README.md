@@ -5,9 +5,10 @@ HI! I'm Gustavo Siqueira, welcome to my Github, feel free to contact me for anyt
 ## ⚡ Stack (Typescript)
 
 - Frontend development: **React (Vite), Next, React-Native**
+- State handlers: **Redux, ContextAPI, Zustand, React Query**
+- Styling: **Tailwind, Sass, Styled-components**
 - Backend development: **Node.js (AdonisJS, NestJs)**
-- Relational: **MySql, SSQL, Postgres**
-- NonRelational: **MongoDB**
+- Databases: **MySql, SSQL, Postgres, MongoDB**
 - Unit/Func tests knowledge
 
 <!---
