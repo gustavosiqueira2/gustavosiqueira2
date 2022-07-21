@@ -7,8 +7,7 @@ HI! I'm Gustavo Siqueira, welcome to my Github, feel free to contact me for anyt
 - Frontend development: **React (Vite), Next, React-Native**
 - State handlers: **Redux, ContextAPI, Zustand, React Query**
 - Styling: **Tailwind, Sass, Styled-components**
-- Backend development: **Node.js (AdonisJS, NestJs)**
-- Databases: **MySql, SSQL, Postgres, MongoDB**
+- Backend development: **Node.js (Adonis, Nest)**
 - Unit/Func tests knowledge
 
 <!---
