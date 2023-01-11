@@ -4,8 +4,8 @@ HI! I'm Gustavo Siqueira, welcome to my Github, feel free to contact me for anyt
 
 ## ⚡ Stack (Typescript)
 
-- Frontend development: **React (Vite), Next, React-Native**
-- State handlers: **Redux, ContextAPI, Zustand, React Query**
+- Frontend development: **React, Next, React-Native**
+- State handlers: **Redux, ContextAPI, React Query**
 - Styling: **Tailwind, Sass, Styled-components**
 - Backend development: **Node.js (Adonis, Nest)**
 - Unit/Func tests knowledge
