@@ -20,4 +20,4 @@ HI! I'm Gustavo Siqueira, welcome to my Github, feel free to contact me for anyt
 
 ## :phone: Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-gustavo.fariassiqueira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.fariassiqueira@gmail.com)](mailto:gustavo.fariassiqueira@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Farias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavofariasdesiqueira/)](https://www.linkedin.com/in/gustavofariasdesiqueira/) 
+[![Gmail Badge](https://img.shields.io/badge/-gustavo.fariassiqueira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.fariassiqueira@gmail.com)](mailto:gustavo.fariassiqueira@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Siqueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavofariasdesiqueira/)](https://www.linkedin.com/in/gustavofariasdesiqueira/) 
